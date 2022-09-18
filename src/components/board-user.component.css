@@ -1,0 +1,11 @@
+.landingbase{
+    margin-top: 0px;
+    background-image: 
+    url(
+    "../pics/online-offers.jpg");  
+    /* background-repeat:repeat;   */
+    background-size: 100% 100%;
+    font-size:50px;
+    min-height: 560px;
+    min-width: 1000px;
+}

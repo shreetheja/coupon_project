@@ -1,0 +1,22 @@
+.loginbase{
+    background-image: 
+    url(
+    "../pics/about_bg1.jpg");  
+    /* background-repeat:repeat;   */
+    background-size: cover;
+    font-size:50px;
+    min-height: 560px;
+    min-width: 800px;
+}
+
+.setform
+{
+    padding:20px;
+    border:2px solid brown ;
+    border-radius: 12px;
+    background-color: bisque;
+    width:300px;
+    align-self: center;
+    font-size: medium;
+}
+    
